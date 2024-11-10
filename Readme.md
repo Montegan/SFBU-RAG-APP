@@ -19,6 +19,8 @@ A Retrieval-Augmented Generation (RAG) Chatbot app built using LangChain, OpenAI
 ## Overview
 
 This project demonstrates a document-based chatbot that enables users to ask questions about uploaded documents, with responses generated from the context of the documents only. By leveraging a retrieval-augmented generation (RAG) approach, the chatbot can extract relevant information from documents and provide precise answers.
+want to know more head over to the below google slides:
+https://docs.google.com/presentation/d/1D3gPBKbaR9--UqdRLO7JgVn-6QEWncEqOkCwaKzAodM/edit?usp=sharing
 
 ## Features
 
