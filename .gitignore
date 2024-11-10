@@ -13,6 +13,9 @@ env/
 ENV/
 .venv/
 .pyenv/
+.streamlit
+secrets.toml
+chroma_sfbu
 
 # Distribution / packaging
 build/

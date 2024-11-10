@@ -1,8 +1,10 @@
 langchain==0.2.10
 langchain-openai==0.1.17
+langchain-chroma>=0.1.2
 python-dotenv==1.0.1
 langchain-groq==0.1.6
 langchain-community== 0.2.10
+faiss-cpu
 bs4==0.0.2
 unstructured==0.15.0
 pypdf==4.3.1
