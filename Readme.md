@@ -1,4 +1,4 @@
-# RAG Chatbot App
+# SFBU RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) Chatbot app built using LangChain, OpenAI, Chroma, and Streamlit. This chatbot answers user questions based on uploaded documents, ensuring responses are directly relevant to the provided content.
 ![alt text](image.png)
